@@ -1,5 +1,11 @@
 # SVG [![Package][package-img]][package-url] [![Documentation][documentation-img]][documentation-url] [![Build][build-img]][build-url]
 
+## Note: this repo has a very specific purpose
+
+This repo contains a modified version of https://github.com/bodoni/svg that removes any floats and the parser. Its intended use is for building SVGs in a Radix (radixdlt.com) blueprint where floats are not allowed and the parser is not required.
+
+---
+
 The package provides an SVG composer and parser.
 
 ## Example: Composing
