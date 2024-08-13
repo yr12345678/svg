@@ -1,4 +1,4 @@
-# SVG [![Package][package-img]][package-url] [![Documentation][documentation-img]][documentation-url] [![Build][build-img]][build-url]
+
 
 ## Note: this repo has a very specific purpose
 
